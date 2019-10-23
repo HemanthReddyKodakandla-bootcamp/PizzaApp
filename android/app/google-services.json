@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "658091095596",
+    "firebase_url": "https://pizzaapp-5f928.firebaseio.com",
+    "project_id": "pizzaapp-5f928",
+    "storage_bucket": "pizzaapp-5f928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658091095596:android:7c503fc51d9828b0",
+        "android_client_info": {
+          "package_name": "com.intra.flutter_pizzadelivaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658091095596-bg3msfj7lq6lrsf0evf9fu47oim4llpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intra.flutter_pizzadelivaryapp",
+            "certificate_hash": "e341acd1d117c81ed7b76e485235def03a423290"
+          }
+        },
+        {
+          "client_id": "658091095596-nbm5vmhtvj1r72u63nfah04psi6lbufm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5miaZZI4dWB2y1jSAca2BatZCC28xHaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658091095596-nbm5vmhtvj1r72u63nfah04psi6lbufm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
